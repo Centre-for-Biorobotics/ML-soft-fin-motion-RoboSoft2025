@@ -1,0 +1,8 @@
+﻿pandas
+matplotlib
+seaborn
+numpy
+scipy
+scikit-learn
+tensorflow
+dtaidistance
