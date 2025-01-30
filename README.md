@@ -11,7 +11,7 @@ TODO
 
 ## Cite
 ```bibtex
-@inproceedings{yuya2025Underwater,
+@inproceedings{hamamatsu2025underwater,
             title={Underwater Soft Fin Flapping Motion with Deep Neural Network Based Surrogate Model}, 
             author={Hamamatsu, Yuya and Kupyn, Pavlo and Gkliva, Roza and Asko, Ristolainen and  Kruusmaa, Maarja},
             booktitle={IEEE-RAS International Conference on Soft Robotics (RoboSoft)},
