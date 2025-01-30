@@ -1,6 +1,7 @@
 # ML-soft-fin-motion-RoboSoft2025
 
-This is the script for the paper entitled **Underwater Soft Fin Flapping Motion with Deep Neural Network Based Surrogate Model** at RoboSoft 2025.
+This is the script for the paper entitled **Underwater Soft Fin Flapping Motion with Deep Neural Network Based Surrogate Model** at [RoboSoft2025](https://robosoft2025.org/).
+Including training script, dataset and pretrained model of the fin surrogate simulator.
 
 ## Video
 
