@@ -10,7 +10,7 @@ Including training script, dataset and pretrained model of the fin surrogate sim
 [![Watch the video](https://img.youtube.com/vi/kXK6Rg0H76Y/maxresdefault.jpg)](https://youtu.be/kXK6Rg0H76Y?si=Op2ifv9167ptCTK3)
 
 ## Usage 
-Unzip the datasets in /src directory. The training dataset is named final_dataset.csv. The rest three are testing datasets for evaluation. The pretrained models are also located in the /src directory.
+Unzip the datasets in /src directory. The training dataset is named final_dataset.csv. The rest three are testing datasets for evaluation. The pretrained models are also located in the /src directory, as well as jupyter notebooks for training both surrogate model and the RL agent.
 
 ## Cite
 ```bibtex
